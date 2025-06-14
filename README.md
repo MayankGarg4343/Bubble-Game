@@ -14,3 +14,6 @@ Simple, addictive gameplay that improves focus and reaction time.
 Responsive UI for smooth play on desktop and mobile.
 
 <h1>🚀 How long can you keep up? Dive into the Bubble Game and show your speed!</h1>
+
+<h1>🌟 Link for the Game. </h1>
+https://bubble-game-ten-xi.vercel.app/
